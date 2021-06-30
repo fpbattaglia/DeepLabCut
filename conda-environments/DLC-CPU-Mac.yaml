@@ -1,0 +1,30 @@
+# DLC-CPU.yaml
+
+#DeepLabCut2.0 Toolbox (deeplabcut.org)
+#© A. & M. Mathis Labs
+#https://github.com/DeepLabCut/DeepLabCut
+#Please see AUTHORS for contributors.
+
+
+#https://github.com/DeepLabCut/DeepLabCut/blob/master/AUTHORS
+#Licensed under GNU Lesser General Public License v3.0
+#
+# modified for MacOS FPB
+
+# install: conda env create -f DLC-CPU.yaml
+# update:  conda env update -f DLC-CPU.yaml
+
+name: DLC-CPU-local
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - jupyter
+  - nb_conda
+  - jupyterlab
+  - pytest
+  - Python.app
+  - pip:
+    - tensorflow==1.15.5
