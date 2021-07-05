@@ -1,16 +1,0 @@
-
-npython:S1542¼"URename function "Getlistofvideos" to match the regular expression ^[a-z_][a-z0-9_]*$.(èüó
-lpython:S1542ğ"NRename function "SaveData" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹’Ú¹ıÿÿÿÿ
-ppython:S1542ü"RRename function "SaveMetadata" to match the regular expression ^[a-z_][a-z0-9_]*$.(ã³Çûÿÿÿÿ
-ppython:S1542„"RRename function "LoadMetadata" to match the regular expression ^[a-z_][a-z0-9_]*$.(“ùÈÁøÿÿÿÿ
-kpython:S1542"RRename function "GetVideoList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î¼Ä´
-xpython:S1542¬"ZRename function "GetTrainingSetFolder" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶õ²İùÿÿÿÿ
-zpython:S1542¶"aRename function "GetDataandMetaDataFilenames" to match the regular expression ^[a-z_][a-z0-9_]*$.(¤ê£Ä
-mpython:S1542Ï"TRename function "GetModelFolder" to match the regular expression ^[a-z_][a-z0-9_]*$.(ô­‘ò
-wpython:S1542á"YRename function "GetEvaluationFolder" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÈíÎúÿÿÿÿ
-python:S1542ş"oRename function "IntersectionofBodyPartsandOnesGivenbyUser" to match the regular expression ^[a-z_][a-z0-9_]*$.(êá¦ıÿÿÿÿÿ
-ppython:S1854ª"RRemove this assignment to local variable 'snapshotindex'; the value is never used.(˜şæÿıÿÿÿÿ
-lpython:S1542Ÿ"SRename function "GetScorerName" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡“Êœ
-ypython:S1542î"[Rename function "CheckifPostProcessing" to match the regular expression ^[a-z_][a-z0-9_]*$.(±°—úÿÿÿÿ
-vpython:S1542"XRename function "CheckifNotAnalyzed" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÉŠœàúÿÿÿÿ
-qpython:S1542ª"YRename function "CheckifNotEvaluated" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘õÃf
